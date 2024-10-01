@@ -43,7 +43,8 @@ export const RESUME_DATA = {
         start: "Sep 2023",
         end: null,
         description:
-        "• Led the Secondary Meters project, optimising data retrieval from Snowflake and reducing API calls by 85% through efficient caching and a robust architectural design \n • Deployed performance optimisations for legacy code, achieving a 21% reduction in Sales Opportunity loading time and enhancing user experience throughout the sales process cycle\n• Implemented a critical fix to eliminate duplicate renewal line items in quotes, reducing RACV discrepancies and improving quote accuracy by 10%, resulting in a time savings of approximately 24 hours per quarter \n • Co-led the ServiceNow India Book Club, organising 10+ discussions that doubled membership, achieved 90% 5-star feedback, and improved social media engagement from 10% to over 60% within a year. \n • Earned certifications as a Certified ServiceNow Administrator (CSA), Application Developer (CAD), and CIS-ITSM, showcasing my ability to quickly learn and adapt to new technologies.",
+        "Contributing to the development and maintenance of a comprehensive in-house CRM and CPQ solution on the ServiceNow platform, with a focus on leveraging sales and order management."
+        // "• Led the Secondary Meters project, optimising data retrieval from Snowflake and reducing API calls by 85% through efficient caching and a robust architectural design \n • Deployed performance optimisations for legacy code, achieving a 21% reduction in Sales Opportunity loading time and enhancing user experience throughout the sales process cycle\n• Implemented a critical fix to eliminate duplicate renewal line items in quotes, reducing RACV discrepancies and improving quote accuracy by 10%, resulting in a time savings of approximately 24 hours per quarter \n • Co-led the ServiceNow India Book Club, organising 10+ discussions that doubled membership, achieved 90% 5-star feedback, and improved social media engagement from 10% to over 60% within a year. \n • Earned certifications as a Certified ServiceNow Administrator (CSA), Application Developer (CAD), and CIS-ITSM, showcasing my ability to quickly learn and adapt to new technologies.",
         },
         {
         company: "Techsophy",
@@ -54,7 +55,8 @@ export const RESUME_DATA = {
         start: "Jan 2023",
         end: "Jul 2023",
         description:
-        "• Developed Recroot, an interactive bot that streamlined the job application process, reducing application time by 40% with features like status tracking, analytics  \n • Integrated the internal chatbot to a live project, handled the backend interaction through the tool by writing Rest APIs using SpringBoot and Java",
+        "Developed Recroot, an interactive bot that reduced job application time by 40%, and integrated an internal chatbot with live project backend interactions using SpringBoot and Java."
+        // "• Developed Recroot, an interactive bot that streamlined the job application process, reducing application time by 40% with features like status tracking, analytics  \n • Integrated the internal chatbot to a live project, handled the backend interaction through the tool by writing Rest APIs using SpringBoot and Java",
         },
         {
         company: "TextHappen",
@@ -65,17 +67,12 @@ export const RESUME_DATA = {
         start: "Sep 2021",
         end: "Jan 2022",
         description:
-        "• Wrote technical articles for clients, leveraging strong research, SEO optimization techniques, and keyword strategies to enhance visibility and engagement.",
+        "Wrote technical articles for clients, leveraging strong research, SEO optimization techniques, and keyword strategies to enhance visibility and engagement.",
         },
     ],
     skills: [
-      "JavaScript, TypeScript",
-      "Java",
-      "React/Next.js",
-      "Node.js, Express.js",
-      "SQL, MongoDB, AWS",
-      "Data Structures and Algorithm",
-      "ServiceNow platform"
+      "JavaScript TypeScript Java React/Next.js Node.js Express.js SQL MongoDB AWS",
+      "Data Structures and Algorithm ServiceNow platform"
     ],
     projects: [
     {
